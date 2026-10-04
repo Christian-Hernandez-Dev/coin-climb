@@ -1,0 +1,11 @@
+# Project place file
+/Roblox-Developer.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+# macOS
+.DS_Store
